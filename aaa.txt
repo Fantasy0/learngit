@@ -5,3 +5,4 @@ Switched to branch 'dev'
 hello
 ok
 add merge
+test merge --no-ff -m"aaa" dev
