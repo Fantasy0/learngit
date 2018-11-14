@@ -4,3 +4,4 @@ git checkout dev
 Switched to branch 'dev'
 hello
 ok
+add merge
