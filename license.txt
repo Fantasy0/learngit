@@ -1,4 +1,0 @@
-it is just a text file for test
-change some charactors
-change again
-it is stupid for svn
